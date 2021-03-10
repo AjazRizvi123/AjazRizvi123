@@ -9,7 +9,7 @@
 
 
 - 🔭 My area of interest is in Web Development 
-- 🌱 I’m currently learning python & Django
+- 🌱 I’m currently learning NodeJs & Mongodb
 - 📫 How to reach me: rizviajazabbas@gmail.com
 
 You can connect with me here,
@@ -20,6 +20,6 @@ You can connect with me here,
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on - Python and Django
+- 🔭 I’m currently working on - MongoDb
 - 📫 How to reach me: - Gmail - rizviajazabbas@gmail.com
 - ⚡ Fun fact: -  Sheldon Cooper has Eidetic Memory.
